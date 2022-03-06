@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\bin\Debug\net6.0\CSharpDictionaries.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\bin\Debug\net6.0\CSharpDictionaries.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\bin\Debug\net6.0\CSharpDictionaries.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\bin\Debug\net6.0\CSharpDictionaries.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\bin\Debug\net6.0\CSharpDictionaries.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\refint\CSharpDictionaries.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\CSharpDictionaries.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpDictionaries\obj\Debug\net6.0\ref\CSharpDictionaries.dll
